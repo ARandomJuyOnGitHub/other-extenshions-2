@@ -11,11 +11,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "custom.ts",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
-        "images.g.jres",
-        "images.g.ts"
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
